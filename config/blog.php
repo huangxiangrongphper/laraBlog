@@ -1,10 +1,10 @@
 <?php
 return [
-    'name' => "Laravel 学院",
-    'title' => "Laravel 学院",
-    'subtitle' => 'http://laravelacademy.org',
-    'description' => 'Laravel学院致力于提供优质Laravel中文学习资源',
-    'author' => '学院君',
+    'name' => "黄向荣的博客",
+    'title' => "黄向荣的博客",
+    'subtitle' => 'https://9102smileforward.com',
+    'description' => '个人做为后端开发的一些技术分享',
+    'author' => '黄向荣',
     'page_image' => 'home-bg.jpg',
     'posts_per_page' => 5,
     'rss_size' => 25,
