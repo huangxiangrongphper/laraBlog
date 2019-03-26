@@ -37,7 +37,7 @@
                         </a>
                     </li>
                 </ul>
-                <p class="copyright text-muted">Copyright © {{ config('blog.author') }} 2018</p>
+                <p class="copyright text-muted">Copyright © {{ config('blog.author') }} 2019</p>
             </div>
         </div>
     </div>
